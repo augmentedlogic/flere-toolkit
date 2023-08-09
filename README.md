@@ -1,2 +1,2 @@
 # flere-toolkit
-Collection of java convinience methods, part of the flere mini framework
+Collection of java convenience methods, part of the flere mini framework
