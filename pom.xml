@@ -5,7 +5,7 @@
   <artifactId>flere-toolkit</artifactId>
   <version>0.1.1</version>
   <name>flere-toolkit</name>
-  <description>Collection of java convenience methods, part of the flere mini framework</description>
+  <description>Collection of java convenience methods, part of the flere micro framework</description>
   <url>https://developer.augmentedlogic.com</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
