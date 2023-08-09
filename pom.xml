@@ -4,14 +4,31 @@
   <groupId>com.augmentedlogic.flere.toolkit</groupId>
   <artifactId>flere-toolkit</artifactId>
   <version>0.1.1</version>
-  <name>Flere Toolkit</name>
-  <description/>
+  <name>flere-toolkit</name>
+  <description>Collection of java convenience methods, part of the flere mini framework</description>
   <url>https://developer.augmentedlogic.com</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
+  <licenses>
+    <license>
+      <name>MIT Licence</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Wolfgang Hauptfleisch</name>
+      <email>dev@augmentedlogic.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/augmentedlogic/flere-toolkit.git</connection>
+    <url>http://github.com/augmentedlogic/flere-toolkit</url>
+  </scm>
   <build>
     <plugins>
       <plugin>

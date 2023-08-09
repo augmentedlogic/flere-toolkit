@@ -162,7 +162,7 @@ public class FileTool
     }
 
 
-    public static ArrayList<String> listFile(String path)
+    public static ArrayList<String> listFiles(String path)
     {
         ArrayList<String> dirs = new ArrayList<String>();
         File[] directories = new File(path).listFiles(File::isFile);
